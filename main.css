@@ -14,9 +14,9 @@ background-color: #E9E9E9;
 
 #secondpanel{
 	background-color:#656565;
-	width: 80%;
-	margin-left:10%;
-	margin-right:10%;
+	width: 90%;
+	margin-left:5%;
+	margin-right:5%;
 	height:40px;
 }
 
@@ -30,8 +30,8 @@ position:relative;
 font-size: 36px;
 padding-top:50px;
 padding-bottom: 50px;
-margin-left:200px;
-margin-right:200px
+margin-left:12%;
+margin-right:12%;
 
 
 
@@ -60,8 +60,8 @@ color:black;
 .contentp{
 	font-family: calibri;
 	font-size:20px;
-	padding-left: 20%;
-	padding-right: 20%;
+	padding-left: 12%;
+	padding-right: 12%;
 	padding-bottom: 10px;
 	padding-top:10px;
 	line-height: 125%;
