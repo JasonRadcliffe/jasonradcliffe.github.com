@@ -13,6 +13,9 @@ a{
 a:link{
 	color:#999;
 }
+a:visited{
+	color:#999;
+}
 #topLine{
 	margin-right:10%;
 	margin-top:40px;
