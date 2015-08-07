@@ -1,0 +1,17 @@
+body{
+	padding:0px;
+	margin:0px;
+	background-color:#eee;
+	font-family: 'Raleway', sans-serif;
+	font-size:2em;
+
+}
+a{
+	text-decoration:none;
+}
+a:link{
+	color:#ccc;
+}
+a:visited{
+	color:#ccc;
+}
