@@ -9,16 +9,16 @@ body{
 a{
 	text-decoration:none;
 }
-a #amazonLink:link{
+#amazonLink:link{
 	color:#f71;
 }
-a #amazonLink:visited{
+#amazonLink:visited{
 	color:#f71;
 }
 
-a #bbLink:link{
+#bbLink:link{
 	color:#45f;
 }
-a #bbLink:visited{
+#bbLink:visited{
 	color:#45f;
 }
